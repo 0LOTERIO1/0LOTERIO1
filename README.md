@@ -1,4 +1,5 @@
 ## Hello I'm Pedro Lotério dos Santos
+- I am a person passionate about technology, and I am launching my projects on GitHub to showcase my programming skills.
 - 📚I currently study information systems / FIAP / São Paulo🎲     
 -   Contact me: loterio.fiap@gmail.com
 -   Passionate about technology ❤
