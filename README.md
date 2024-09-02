@@ -1,6 +1,5 @@
 ## Hello I'm Pedro Lotério dos Santos
-- 📚I currently study information systems🎲     
--   Pronouns: he/him  :-D
+- 📚I currently study information systems / FIAP / São Paulo🎲     
 -   Contact me: loterio.fiap@gmail.com
 -   Passionate about technology ❤
 
